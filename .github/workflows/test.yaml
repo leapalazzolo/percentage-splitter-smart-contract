@@ -2,8 +2,6 @@ name: Test Contract
 
 on:
   push:
-    branches:
-      - main
     branches: ['**']
     paths:
       - 'contracts/**.sol'
