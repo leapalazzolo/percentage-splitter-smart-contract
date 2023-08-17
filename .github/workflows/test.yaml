@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+env:
+  PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+
 jobs:
   test:
     runs-on: ubuntu-latest
