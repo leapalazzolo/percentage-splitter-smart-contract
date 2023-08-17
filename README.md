@@ -1,4 +1,4 @@
-[![Test Contract](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml/badge.svg)](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml)
+[![Test Contract](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml)
 
 # Percentage Splitter Smart Contract
 
