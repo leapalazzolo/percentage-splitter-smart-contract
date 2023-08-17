@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    branches: ['**']
+    paths:
+      - 'contracts/**.sol'
+      - 'test/**.ts'
 
 env:
   PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
