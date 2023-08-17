@@ -1,3 +1,5 @@
+[![Test Contract](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml/badge.svg)](https://github.com/leapalazzolo/percentage-splitter-smart-contract/actions/workflows/test.yaml)
+
 # Percentage Splitter Smart Contract
 
 This repository contains a Solidity smart contract that implements a percentage splitter. The contract allows you to split incoming funds between an owner and a receiver based on specified percentages.
